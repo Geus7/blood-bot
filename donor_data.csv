@@ -1,0 +1,5 @@
+name,email,blood_type,location,date_donated
+John Doe,johndoe@example.com,A+,Chennai,2023-01-15
+Jane Smith,janesmith@example.com,B-,Bengaluru,2023-03-20
+Alice Johnson,alicejohnson@example.com,O+,Hyderabad,2023-07-11
+Bob Lee,boblee@example.com,AB-,Mumbai,2023-09-18
